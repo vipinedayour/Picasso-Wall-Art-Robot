@@ -2,7 +2,9 @@
 
 This is a project which aims at developing a smart wall art robot that can take your picture to the wall. You can customise your wall in any way.
 
-
+Digital            |  Plot on paper
+:-------------------------:|:-------------------------:
+<img src="Images/barong%20digital.jpg" width=500px>  |  <img src="Images/barong%20drawn.jpg" width=500px>
 
 
 ## Maintainers
@@ -15,11 +17,20 @@ https://drive.google.com/file/d/1reYak2XWaveg310bacjXTmTI0z7PpHS1/view?usp=shari
 ## How it works?
 
 Image-> Bitmap -> Gcode
+<img src="Images/workflow.png" >
+
 ## Technologies and Libraries used
-Grbl  v1.1h 
+Grbl  v1.1h https://github.com/grbl/grbl
+
+DrawingBot V3 https://github.com/SonarSonic/DrawingBotV3
+
+Inkscape https://inkscape.org/
 
 ## How to configure
-
+**Block Diagram**
+<img src="Images/blockdiagram.png">
 
 ## How to run
 ## Improvements Required
+## Follow us on
+https://www.instagram.com/picasso_gect2023/
