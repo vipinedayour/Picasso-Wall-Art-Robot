@@ -1,0 +1,6 @@
+Pillow
+ortools
+tqdm
+imageio
+scipy
+matplotlib
