@@ -19,6 +19,19 @@ https://drive.google.com/file/d/1reYak2XWaveg310bacjXTmTI0z7PpHS1/view?usp=shari
 Image-> Bitmap -> Gcode
 <img src="Images/workflow.png" >
 
+### Step 1 Find out an image
+Take a nice clear image using mobile phone or any image available online. Make sure the image has better resolution and clarity. 
+
+### Step 2 Generate bitmap or vectorize the image
+Bitmap can be generated using Inkscape software by loading the image. It is basically a image editing software. 
+Make sure to select the right canvas size for the image from the document properties. (Ctrl + Shift + D)
+We have used A3 sized book for drawing images.
+
+### Step 3 Generate Gcode
+After converting the image into bitmap, gcode can be generated from the image using the same software.
+
+### Step 4 Send the Gcode to the arduino
+
 ## Technologies and Libraries used
 Grbl  v1.1h https://github.com/grbl/grbl
 
