@@ -8,7 +8,7 @@ Digital            |  Plot on paper
 
 
 ## Maintainers
-1.Adithya Krishna  https://github.com/Aadhi-kris
+1.Adithya Krishna  https://github.com/Aadhi-kris     
 2.Gopikrishnan TC  https://github.com/gktc  
 3.Steena Xavier  https://github.com/SteenaXavier  
 4.Vipin E https://github.com/vipinedayour
